@@ -39,7 +39,7 @@ The hover state of the blog card.
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://blog-preview-card-phi-opal.vercel.app/](https://blog-preview-card-phi-opal.vercel.app/)
 
 ## My process
 
