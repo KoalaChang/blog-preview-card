@@ -27,7 +27,7 @@ body {
     width: 384px;
     height: 522px;
     border-radius: 20px;
-    border: #111111 solid;
+    border: #111111 solid 1px;
     box-shadow: 8px 7px 0px #111111;
     display: flex;
     flex-direction: column;
